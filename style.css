@@ -23,3 +23,8 @@ input[type=text]:focus{
    margin-right: 10px;
 
 }
+.runleft{
+    float: left !important;
+    margin-left: 10px;
+ 
+ }
